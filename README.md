@@ -1,0 +1,2 @@
+# fonogracoin
+new coin 
